@@ -1,0 +1,11 @@
+{
+  "name": "trac-nghiem-120-cau",
+  "version": "1.0.0",
+  "description": "Quiz App deployment on Cloudflare Pages",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Ứng dụng đang chạy...'"
+  },
+  "author": "",
+  "license": "ISC"
+}
