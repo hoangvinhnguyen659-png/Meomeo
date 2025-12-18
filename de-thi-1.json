@@ -1,0 +1,18 @@
+[
+    {
+        "question": "Thủ đô của Việt Nam là gì?",
+        "a": "Huế",
+        "b": "Hà Nội",
+        "c": "Sài Gòn",
+        "d": "Đà Nẵng",
+        "correct": "b"
+    },
+    {
+        "question": "Câu hỏi số 2...",
+        "a": "Đáp án A",
+        "b": "Đáp án B",
+        "c": "Đáp án C",
+        "d": "Đáp án D",
+        "correct": "a"
+    }
+]
